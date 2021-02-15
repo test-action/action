@@ -8,6 +8,6 @@ public class MainTest {
 	public void testAdd() {
 		int actual = Main.add(2,2);
 
-		assertEquals(4, actual);
+		assertEquals(5, actual);
 	}
 }
